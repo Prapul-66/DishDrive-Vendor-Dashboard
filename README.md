@@ -22,13 +22,4 @@ DishDrive is a full-stack web application built with the MERN stack (MongoDB, Ex
 | React.js          | Node.js + Express  | MongoDB  | Multer (file uploads) |
 | useState, useEffect | REST APIs        | Mongoose | LocalStorage          |
 
----
-
-## 📸 Screenshots
-
-> _Add your screenshots here or link to them_
-
----
-
-## 📁 Folder Structure
 
