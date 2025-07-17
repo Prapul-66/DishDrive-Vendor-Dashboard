@@ -26,7 +26,7 @@
 
 - **Frontend**: React.js, CSS/Bootstrap/Tailwind
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (or optional)
+- **Database**: MongoDB.
 - **Version Control**: Git + GitHub
 
 ---
