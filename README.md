@@ -1,42 +1,34 @@
-# 🍽️ DishDriver
+# 🍽️ DishDrive – Vendor Product Management Dashboard
 
-**DishDriver** is a full-stack food ordering application built with a React frontend and Node.js/Express backend. It allows users to browse dishes, place orders, and manage food delivery seamlessly.
+DishDrive is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that enables vendors to register, log in, and manage their product listings. Each vendor can upload products (with images), view only their own data, and securely handle sessions using `localStorage`.
 
 ---
 
 ## 🚀 Features
 
-### Frontend (React.js)
-- Modern UI built with React
-- Responsive design for mobile and desktop
-- Dish listing and details view
-- Cart management and checkout
-
-### Backend (Node.js + Express)
-- RESTful APIs for dishes, orders, and users
-- Secure and scalable architecture
-- MongoDB or JSON file-based storage (depending on setup)
-- Environment-based configuration
-
----
+- ✅ Vendor Registration & Login
+- ✅ Secure session handling with `localStorage`
+- ✅ Firm-based product upload and filtering
+- ✅ Product image upload using `multer`
+- ✅ Responsive & modern UI using custom CSS
+- ✅ RESTful API integration
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, CSS/Bootstrap/Tailwind
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB.
-- **Version Control**: Git + GitHub
+| Frontend          | Backend            | Database | Others                |
+|-------------------|--------------------|----------|------------------------|
+| React.js          | Node.js + Express  | MongoDB  | Multer (file uploads) |
+| useState, useEffect | REST APIs        | Mongoose | LocalStorage          |
 
 ---
 
-## 📦 Installation & Setup
+## 📸 Screenshots
 
-### 1. Clone the repository
+> _Add your screenshots here or link to them_
 
-```bash
-git clone https://github.com/Prapul-66/DishDriver.git
-cd DishDriver
+---
 
+## 📁 Folder Structure
 
