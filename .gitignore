@@ -1,0 +1,25 @@
+# Node (backend + frontend)
+node_modules/
+.env
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Build output
+build/
+dist/
+
+# React specific
+frontend/build/
+backend/build/
